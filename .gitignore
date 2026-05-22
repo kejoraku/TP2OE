@@ -1,0 +1,4 @@
+# Ignorar archivos temporales y datos pesados
+.ipynb_checkpoints/
+__pycache__/
+*.env
